@@ -18,7 +18,7 @@
     *   Having more than one remote control: you need to spend time looking at the remote, determining which one is best for the task, if you need to use multiple controls, etc
 *   HCI is ubiquitous - it’s everywhere!
     *   We might be experts at interacting with computers, but that doesn’t make us experts at designing interactions between other humans and computers.
-*   HCI is a subset of the broader field of **human factors engineering **
+*   HCI is a subset of the broader field of **human factors engineering**
     *   **Human factors engineering**: designing the interactions between people and products, systems, or devices
         *   We’re interested in designing the interactions between people and computers, but computers are themselves products or systems.
         *   Human factors is interested in the non-computing parts of this as well
